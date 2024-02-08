@@ -1,3 +1,8 @@
+# Project Screenshots
+
+(https://github.com/riteshpushkar/CRUD-django-project/assets/79689579/83d920d9-2c6a-488c-8ca1-ab94a8395089)
+(https://github.com/riteshpushkar/CRUD-django-project/assets/79689579/7a61234a-74b5-4214-92e0-b26f377ab389)
+
 # Django CRUD Project
 
 This is a CRUD (Create, Read, Update, Delete) project built using Django, allowing users to perform basic operations on student records. The project includes functionalities to add, view, edit, and delete student records.
@@ -60,11 +65,6 @@ This project was created by [Your Name].
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-
-# Project Screenshots
-
-(https://github.com/riteshpushkar/CRUD-django-project/assets/79689579/83d920d9-2c6a-488c-8ca1-ab94a8395089)
-(https://github.com/riteshpushkar/CRUD-django-project/assets/79689579/7a61234a-74b5-4214-92e0-b26f377ab389)
 
 
 
