@@ -1,7 +1,4 @@
-# Project Screenshots
-
-(https://github.com/riteshpushkar/CRUD-django-project/assets/79689579/83d920d9-2c6a-488c-8ca1-ab94a8395089).
-
+# Project Screenshot
 
 (https://github.com/riteshpushkar/CRUD-django-project/assets/79689579/7a61234a-74b5-4214-92e0-b26f377ab389)
 
